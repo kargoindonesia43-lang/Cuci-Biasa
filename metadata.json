@@ -1,0 +1,5 @@
+{
+  "name": "VEO Flow Architect",
+  "description": "An AI-powered tool to generate consistent, frame-by-frame video prompts from images for Google VEO and Flow workflows.",
+  "requestFramePermissions": []
+}
